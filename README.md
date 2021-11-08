@@ -1,6 +1,6 @@
 ### Olá, eu sou o Victor Luz, bem vindos ao meu GitHub 👋
 
-- 🔭 Atualmente me especializando em desenvolvimento web FullStack ...
+- 🔭 Atualmente me especializando em desenvolvimento web FullStack  através da Blue EDTech, e graduando em Análise e Desenvolvimento de Sistemas...
 - 🌱 Estudando TypeScript,ReactJs,NodeJs,NestJs..
 - 📫 Contate-me através do email: victor.fernando.moura@hotmail.com
 <!-- 
