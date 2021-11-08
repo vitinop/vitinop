@@ -1,7 +1,7 @@
 ### Olá, eu sou o Victor Luz, bem vindos ao meu GitHub 👋
 
 - 🔭 Atualmente me especializando em desenvolvimento web FullStack  através da Blue EDTech
-- Graduando em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
+- 🎓Graduando em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
 
 
 - 🌱 Estudando TypeScript,ReactJs,NodeJs,NestJs..
