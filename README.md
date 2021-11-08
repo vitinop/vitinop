@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente me especializando em desenvolvimento web FullStack ...
 - 🌱 Estudando TypeScript,ReactJs,NodeJs,NestJs..
-- 📫 Contate-me através do email: victor.fernando.moura@hhotmail.com
+- 📫 Contate-me através do email: victor.fernando.moura@hotmail.com
 
 <div align="center">
   <a href="https://github.com/vitinop">
