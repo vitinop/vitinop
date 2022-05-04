@@ -4,7 +4,7 @@
 - 🎓Graduando em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
 
 
-- 🌱 Estudando TypeScript,ReactJs,NodeJs,NestJs..
+- 🌱 Estudando Java ,ReactJs, NodeJs, NestJs..
 - 📫 Contate-me através do email: victor.fernando.moura@hotmail.com
 <!-- 
 caixas de status -->
