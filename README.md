@@ -1,7 +1,9 @@
 ### Olá, eu sou o Victor Luz, bem vindos ao meu GitHub 👋
 
-- 🔭 Atualmente me especializando em desenvolvimento web FullStack  através da Blue EDTech e o curso Certified TechDeveloper da Digital House 
+- 🔭 Atualmente me especializando e o curso Certified TechDeveloper da Digital House 
 - 🎓Graduando em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
+
+
 
 
 - 🌱 Estudando Java ,ReactJs, NodeJs, NestJs..
