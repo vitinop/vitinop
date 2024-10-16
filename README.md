@@ -1,7 +1,7 @@
 ### Olá, eu sou o Victor Luz, bem vindos ao meu GitHub 👋
 
-- 🔭 Atualmente me especializando e o curso Certified TechDeveloper da Digital House 
-- 🎓Graduando em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
+- 🔭 Formado no curso Certified TechDeveloper da Digital House  - Especialização em Desenvolvimento FrontEnd
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
 
 
 
