@@ -4,9 +4,16 @@
 - 🎓Graduando em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
 
 
+- 🌱 
+Sou um Desenvolvedor Full Stack Pleno com ampla experiência no desenvolvimento de aplicações utilizando AngularJS, .NET/C#, React e Redux. Tenho sólidos conhecimentos na criação de interfaces modernas e responsivas usando HTML, CSS, SASS, JavaScript, além de bibliotecas de estilização como Material-UI, Bootstrap e Tailwind. Também realizo testes unitários com Jasmine para front-end e NUnit para .NET, além de utilizar o SQL Server Management Studio 19 em minhas atividades diárias de gerenciamento de banco de dados.
 
+Minha trajetória inclui conhecimentos intermediários em Python, SQL, MongoDB, e Java, aplicando abordagens orientadas a objetos para resolver problemas complexos. Tenho experiência em testes unitários com Jest.js e em testes de API REST utilizando Postman e Insomnia.
 
-- 🌱 Estudando Java ,ReactJs, NodeJs, NestJs..
+Atuei como estagiário no setor de infraestrutura, onde promovi soluções em nuvem e implementei pipelines com Azure DevOps Services, Jenkins, e SonarQube. Conectei serviços em clusters AWS/Azure e gerenciei repositórios, políticas de acesso e controle de identidade, garantindo a segurança e a eficiência nos processos. Atualmente, utilizo minhas habilidades em Azure DevOps para gerenciar repositórios, pipelines e releases, assegurando a entrega contínua e eficiente de software.
+
+Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Estácio e concluí o programa Certified Tech Developer na Digital House, complementando minha formação com diversos cursos adicionais. Tenho habilidades avançadas em comunicação, trabalho em equipe, e gestão de tempo, além de ampla experiência com metodologias ágeis (Scrum e Kanban) e ferramentas como JIRA, MIRO, Azure, Figma, Trello, GitHub, GitLab, e Bitbucket.
+
+Confira meus projetos e trajetória no GitHub (github.com/vitinop). Estou em busca de novas oportunidades para aplicar meu conhecimento e energia em projetos inovadores. Estou disponível para discutir futuras colaborações e compartilhar mais sobre minha experiência e projetos anteriores.
 - 📫 Contate-me através do email: victor.fernando.moura@hotmail.com
 <!-- 
 caixas de status -->
