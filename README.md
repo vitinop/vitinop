@@ -4,8 +4,8 @@
 - 🎓Graduando em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
 
 
-- 🌱 
-Sou um Desenvolvedor Full Stack Pleno com ampla experiência no desenvolvimento de aplicações utilizando AngularJS, .NET/C#, React e Redux. Tenho sólidos conhecimentos na criação de interfaces modernas e responsivas usando HTML, CSS, SASS, JavaScript, além de bibliotecas de estilização como Material-UI, Bootstrap e Tailwind. Também realizo testes unitários com Jasmine para front-end e NUnit para .NET, além de utilizar o SQL Server Management Studio 19 em minhas atividades diárias de gerenciamento de banco de dados.
+
+🌱 Sou um Desenvolvedor Full Stack Pleno com ampla experiência no desenvolvimento de aplicações utilizando AngularJS, .NET/C#, React e Redux. Tenho sólidos conhecimentos na criação de interfaces modernas e responsivas usando HTML, CSS, SASS, JavaScript, além de bibliotecas de estilização como Material-UI, Bootstrap e Tailwind. Também realizo testes unitários com Jasmine para front-end e NUnit para .NET, além de utilizar o SQL Server Management Studio 19 em minhas atividades diárias de gerenciamento de banco de dados.
 
 Minha trajetória inclui conhecimentos intermediários em Python, SQL, MongoDB, e Java, aplicando abordagens orientadas a objetos para resolver problemas complexos. Tenho experiência em testes unitários com Jest.js e em testes de API REST utilizando Postman e Insomnia.
 
